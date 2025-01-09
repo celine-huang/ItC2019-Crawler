@@ -1,4 +1,4 @@
-# ItC 2019 Crawler
+# Intro to Computer 2019 Crawler
 
 Introduction to Computer, National Taiwan University, Fall 2019, Final Project
 
